@@ -1,0 +1,59 @@
+Title : Lease vs. buy car: compare new car financing options to find the optimal
+
+Description:
+
+The situation can be handled by encountering the root of the cause to take the cars for leasing and the issues may include is while we don’t own a car that you lease, we’re still responsible for damages. If you return the vehicle damaged at the end of the lease, we’ll have to pay fees for what the automotive dealer deems excessive wear and tear. So, it is better to buy a car rather than leasing the car or we should provide the hourly/day lease offers with low price .
+It is important to tackle because, if we’re looking to get a new car, you might consider leasing it instead of buying it outright. While car leases typically come with lower monthly payments, you won’t actually own the car. Buying a car, on the other hand, means you’ll be purchasing an asset, which can be worth making higher payments.
+
+We are planning to develop a website to compare new car financing options to find the optimal in Leasing and buying a car. By developing this website, it will be easy for people to lease or buy a car. Due to severe market competition, people are opting to lease a car rather than buying a car. But, if you’re looking to get a new car, you might consider leasing it instead of buying it outright.On one hand, buying involves higher monthly costs, but you own an asset your vehicle in the end. On the other hand, a lease has lower monthly payments and lets you drive a vehicle that may be more expensive than you could afford to buy, but you get into a cycle in which you never stop paying for the vehicle.
+
+First week implementation code:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>
+        CAR RENTAL
+    </title>
+</head>
+
+<body>
+    <!-- STEP1: SET THE NAVIGATION PANNEL -->
+    <div>
+        <font face="cinzel" size="4">
+            <a href="#">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#">PRICING</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#">MAP</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#">CONTACT US</a>
+        </font>
+    </div>
+    <!-- STEP2: SET THE IMAGE -->
+    <img src="logo.png" alt="LOGO" style="width:400px;height:300px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </h3>
+    <!-- STEP3: BREAK THE LINES -->
+    <br /><br /><br />
+    <!-- STEP4: SET THE CONTENT. -->
+    <h1 align="center">
+        <font face="Lato" color="#017bf5" size="7">
+            BEAUTIFUL AND SIMPLE WEB PAGE FOR CAR RENTAL
+        </font>
+    </h1>
+    <h3 align="center">
+        <font face="Lato" color="#000" size="5">
+            USING HTML AND CSS ONLY
+        </font>
+    </h3>
+    <br />
+    <h3 align="center">
+        <a href="#">
+            <font face="Lato" color="#000">GET STARTED</font>
+        </a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#">
+            <font face="Lato" color="BLACK">SUBSCRIBE US</font>
+        </a>
+    </h3>
+</body>
+
+</html>
